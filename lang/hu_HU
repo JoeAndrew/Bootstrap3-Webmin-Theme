@@ -1,0 +1,64 @@
+left_login=Login: $1
+left_home=Rendszer információk
+left_oc=Sponsored by OpenCountry
+left_feedback=Visszajelzés küldése
+left_search_webmin=Keresés Webminen:
+left_search_usermin=Keresés Userminen:
+left_search=Keresés:
+left_logs=Modulok naplójának megtekintése
+left_others=Egyebek
+
+right_login=Bejelentkezés mint
+right_from=Bejelentkezve mint
+
+body_header0=Rendszer információk
+body_host=Számítógépnév
+body_os=Operációs rendszer
+body_webmin=Webmin verzió
+body_time=Rendszeridő
+body_kernel=Kernel és CPU
+body_cpuinfo=Processzor információk
+body_cputype=$5, $8 mag
+body_uptime=Futásidő
+body_updays=$1 nap, $2 óra, $3 perc
+body_uphours=$1 óra, $2 perc
+body_upmins=$1 perc
+body_procs=Futó szoltáltatások
+body_cpuuse=CPU használat
+body_cpustats=$1% felhasználó, $2% kernel, $4% IO, $3% tétlen
+body_real=Valós memória
+body_virt=Virtuális memória
+body_used=$1 összesen - $2 használt
+body_cpu=CPU használat átlaga
+body_load=$1 (1 perc) $2 (5 perc) $3 (15 perc)
+body_disk=Helyi lemez használat
+body_kernelon=$1 $2 on $3
+body_updates=Elérhető frissítések
+body_upok=All installed packages are up to date
+body_upneed=$1 elérhető frissítés
+body_upsec=$1 elérhető frissítés, amelyből $2 biztonsági frissítés
+body_cputemps=CPU hőmérséklet
+body_drivetemps=Lemezek hőmérséklete
+body_driveerr=$1 hiba!
+body_drivefailed=SMART adatok betöltése sikertelen!
+
+body_header1=Fiók információk
+body_usermin=Usermin verzió
+body_out=$1&nbsp;of&nbsp;$2
+body_uquota=Lemezkvóta és használat
+
+login_danger=Veszély
+login_warning=Figyelem
+login_success=Sikeres
+login_username=Felhasználónév
+login_password=Jelszó
+login_token=Token
+login_remember=Emlékezz rám
+login_signin=Bejelentkezés
+
+banner_login=Tovább a bejelentkezéshez
+
+session_failed=Bejelentkezés sikertele, próbáld újra!
+session_twofailed=Két-faktoros autentikáció sikertelen: $1
+session_logout=Kijelentkezés sikeres. 
+session_timeout=A munkamenet $1 percnyi inaktivitás után megszakadt.
